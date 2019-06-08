@@ -18,7 +18,9 @@
   * cons：クライアント側に全ての情報を持っているため、全員がいなくなるとルーム情報の保持ができない
 
 ## サービス型
-* [ココフォリア](https://cc.folia.me/)
+* [ココフォリア](https://rc.folia.me/home/)
+  * pros：UI/UXが最高
+  * cons：部屋全体のImport/Exportが出来ない。CoCのみ対応
 * [Tablk](https://tablk.herokuapp.com/)
 * [Tekey](https://tekey.jp/)
 * [オンセン](https://trpgsession.click/)
